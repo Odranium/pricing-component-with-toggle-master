@@ -1,0 +1,8 @@
+@media screen and (max-width: 375px) {
+	.cards {
+		flex-direction: column;
+	}
+	.card {
+		margin: 1rem;
+	}
+}
